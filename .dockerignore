@@ -1,0 +1,9 @@
+.git
+.venv
+.env
+.env.*
+.runtime-tmp
+storage
+**/__pycache__
+**/.pytest_cache
+**/*.pdf
